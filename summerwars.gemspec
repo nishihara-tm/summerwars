@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
 
   spec.summary = "This is the gem to say yoroshikuonegaishimasu!"
   spec.description = "Mock the best scene in the movie Summer Wars"
-  spec.homepage = "nothing"
+  spec.homepage = "https://github.com/nishihara-tm/summerwars.git"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = 'https://rubygems.org'
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "none"
-  spec.metadata["changelog_uri"] = "none"
+  spec.metadata["source_code_uri"] = "https://github.com/nishihara-tm/summerwars.git"
+  spec.metadata["changelog_uri"] = "https://github.com/nishihara-tm/summerwars/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
